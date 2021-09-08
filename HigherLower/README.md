@@ -1,7 +1,6 @@
 # Title
 
-Simple application basing on flask. 
-It prints different ascii art text for sentence "FLASK IS SUPER!".
+Flask application which implements Higher or Lower game.
 
 # Requirements
 
